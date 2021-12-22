@@ -6,4 +6,4 @@ It took around 65 days of rigorous programming and debugging to create this proj
 
 Please be notified that I did not create the GUI by myself, not at all. Bootstrap template (Philosophy) was used for this purpose
 
-To use the application and write blogs after signing up, go here: http://www.uzair-reviews.com/Blogs
+To use the application and write blogs after signing up, go here: http://www.uzair-afzal.com/blogs. If this does not work for you, go here: http://www.uzairafzal.com/blogs
